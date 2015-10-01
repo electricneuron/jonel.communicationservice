@@ -1,0 +1,11 @@
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.SystemTray\bin\Debug\Jonel.SystemTray.exe.config
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.SystemTray\bin\Debug\Jonel.SystemTray.exe
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.SystemTray\bin\Debug\Jonel.SystemTray.pdb
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.SystemTray\obj\Debug\Jonel.SystemTray.csprojResolveAssemblyReference.cache
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.SystemTray\obj\Debug\Jonel.SystemTray.FormApp.resources
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.SystemTray\obj\Debug\Jonel.SystemTray.Properties.Resources.resources
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.SystemTray\obj\Debug\Jonel.SystemTray.csproj.GenerateResource.Cache
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.SystemTray\obj\Debug\Jonel.SystemTray.exe
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.SystemTray\obj\Debug\Jonel.SystemTray.pdb
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.SystemTray\bin\Debug\Jonel.Logger.dll
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.SystemTray\bin\Debug\Jonel.Logger.pdb

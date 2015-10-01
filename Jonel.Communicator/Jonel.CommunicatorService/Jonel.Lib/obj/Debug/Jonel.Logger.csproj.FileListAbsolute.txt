@@ -1,0 +1,5 @@
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\Jonel.Lib\bin\Debug\Jonel.Lib.dll
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\Jonel.Lib\bin\Debug\Jonel.Lib.pdb
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\Jonel.Lib\obj\Debug\Jonel.Lib.dll
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\Jonel.Lib\obj\Debug\Jonel.Lib.pdb
+E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\Jonel.Lib\obj\Debug\Jonel.Logger.csprojResolveAssemblyReference.cache

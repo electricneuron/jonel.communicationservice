@@ -1,0 +1,583 @@
+﻿Installing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Rolling back assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Creating EventLog source Jonel Communicator in log Application...
+Rolling back assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Restoring event log to previous state for source Jonel Communicator.
+Installing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Creating EventLog source Jonel Communicator in log Application...
+Rolling back assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Restoring event log to previous state for source Jonel Communicator.
+Installing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Creating EventLog source Jonel Communicator in log Application...
+Rolling back assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Restoring event log to previous state for source Jonel Communicator.
+Uninstalling assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Warning: The source Jonel Communicator is not registered on the local machine.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Creating EventLog source Jonel Communicator in log Application...
+Rolling back assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Restoring event log to previous state for source Jonel Communicator.
+Installing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Creating EventLog source Jonel Communicator in log Application...
+Rolling back assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Restoring event log to previous state for source Jonel Communicator.
+Installing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Creating EventLog source Jonel Communicator in log Application...
+Rolling back assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Restoring event log to previous state for source Jonel Communicator.
+Installing assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Creating EventLog source Jonel Communicator in log Application...
+Rolling back assembly 'E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Restoring event log to previous state for source Jonel Communicator.
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Warning: The source Jonel Communicator is not registered on the local machine.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Creating EventLog source Jonel Communicator in log Application...
+Rolling back assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Restoring event log to previous state for source Jonel Communicator.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Creating EventLog source Jonel Communicator in log Application...
+Rolling back assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Restoring event log to previous state for source Jonel Communicator.
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Warning: The source Jonel Communicator is not registered on the local machine.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Creating EventLog source Jonel Communicator in log Application...
+Rolling back assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Restoring event log to previous state for source Jonel Communicator.
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Warning: The source Jonel Communicator is not registered on the local machine.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Creating EventLog source Jonel Communicator in log Application...
+Rolling back assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Restoring event log to previous state for source Jonel Communicator.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Attempt to stop service Jonel Communicator.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Attempt to stop service Jonel Communicator.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Attempt to stop service Jonel Communicator.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Uninstalling assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Removing EventLog source Jonel Communicator.
+Service Jonel Communicator is being removed from the system...
+Service Jonel Communicator was successfully removed from the system.
+Installing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
+Installing service Jonel Communicator...
+Service Jonel Communicator has been successfully installed.
+Creating EventLog source Jonel Communicator in log Application...
+Committing assembly 'E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.InstallLog
+   assemblypath = E:\Work\Jonel Engineering\Jonel.Communicator\Jonel.CommunicatorService\bin\Debug\Jonel.CommunicatorService.exe
